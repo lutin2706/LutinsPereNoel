@@ -1,0 +1,86 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: red;
+}
+
+header {
+	background-color: white;
+	max-width: 80%;
+}
+
+header h1 {
+	color: green;
+}
+
+header h3 {
+	color: red;
+}
+
+nav {
+	background-color: green;
+}
+
+a.navbar-brand {
+	color: red !important;
+}
+a.nav-link {
+	color: white !important;
+}
+
+a.nav-link:hover {
+	color: red !important;
+}
+
+.dropdown-menu {
+	background-color: green;
+}
+
+a.dropdown-item {
+	color: white;
+}
+
+.btn-light {
+	color: green;
+}
+
+.btn-light:hover {
+	color: red;
+}
+.main {
+	background-color: white;
+	min-height: 500px;
+	max-width: 80%;
+}
+
+.titre-article {
+	color: red;
+}
+
+.main a {
+	color: green;
+}
+
+.main a:hover {
+	color: red;
+}
+
+.social {
+	text-align: right;
+}
+
+.copyright {
+	text-align: center;
+}
+aside {
+	border-color: red;
+	border-radius: 5px;
+	border-style: dotted;
+	border-width: 2px;
+}
+footer {
+	max-width: 80%;
+	background-color: green;
+	color: white;
+}
+
